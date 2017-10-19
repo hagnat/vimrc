@@ -4,7 +4,7 @@ syntax on
 filetype plugin indent on
 
 set background=dark
-colorscheme tomorrow-night
+colorscheme Tomorrow-Night
 
 set number
 set colorcolumn=90
