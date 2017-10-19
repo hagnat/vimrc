@@ -16,6 +16,10 @@ VIM CONFIGURATION
 
     ln -s ~/.vim/vimrc ~/.vimrc
 
+# todo
+
+* show whitespace characters
+
 # Credits
 
 * [Mark G. Gauthier's "Vim Configuration From Scratch"](http://marcgg.com/blog/2016/03/01/vimrc-example/)
