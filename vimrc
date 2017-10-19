@@ -16,3 +16,7 @@ set expandtab
 set smartindent
 set autoindent
 
+autocmd BufWritePre * :%s/\s\+$//e
+
+set showmatch
+
