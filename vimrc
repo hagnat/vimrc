@@ -8,3 +8,11 @@ colorscheme tomorrow-night
 
 set number
 set colorcolumn=90
+
+set nowrap
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set smartindent
+set autoindent
+
