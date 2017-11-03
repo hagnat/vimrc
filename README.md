@@ -9,17 +9,11 @@ VIM CONFIGURATION
     git clone git@github.com:hagnat/vimrc.git ~/.vim
 ```
 
-* update the submodules
+* run the installer
 
 ```
-    git submodule update --remote
-    git submodule update --init bundle/tomorrow-theme
-```
-
-* create a symlink for vimrc on your home folder
-
-```
-    ln -s ~/.vim/vimrc ~/.vimrc
+    cd ~/.vim
+    make install
 ```
 
 # todo
